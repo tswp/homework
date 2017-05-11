@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMenuContext</string>
+    <string name="new_file">新建</string>
+    <string name="open_file">打开</string>
+</resources>
